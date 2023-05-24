@@ -56,7 +56,7 @@ main {
 .mensaje {
     height: 530px;
     background: white;
-    background-image: url("/imagenes/Muñeco.png"), url(imagenes/Frame\ 5p.png);
+    background-image: url("/imagenes/Muñeco.png");
     background-repeat: no-repeat;
     background-position: top , bottom ;
     border: none;
